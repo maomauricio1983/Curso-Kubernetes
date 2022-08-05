@@ -1,0 +1,5 @@
+
+h
+java:S6204/"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+b
+java:S1612."GReplace this lambda with method reference 'CursoUsuario::getUsuarioId'.(Ê”Ó†üÿÿÿÿ

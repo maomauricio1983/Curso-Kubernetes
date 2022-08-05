@@ -1,0 +1,24 @@
+
+j
+java:S1192L"HDefine a constant instead of duplicating this literal "mensaje" 3 times.(¸ÿÅ—úÿÿÿÿ8ÂÅ¹ã¥0
+Q	java:S125"<This block of commented-out lines of code should be removed.(ŞæÕÅ
+[
+java:S4684%"@Replace this persistent entity with a simple POJO or DTO object.(–ìËÖùÿÿÿÿ
+A
+java:S1452%"&Remove usage of generic wildcard type.(–ìËÖùÿÿÿÿ
+[
+java:S4684."@Replace this persistent entity with a simple POJO or DTO object.(¾éßûúÿÿÿÿ
+A
+java:S1452."&Remove usage of generic wildcard type.(¾éßûúÿÿÿÿ
+A
+java:S1452<"&Remove usage of generic wildcard type.(”øÈ»şÿÿÿÿ
+;
+java:S1452F"&Remove usage of generic wildcard type.(ŠœÚg
+A
+java:S1452W"&Remove usage of generic wildcard type.(—Šûîúÿÿÿÿ
+<
+java:S1452g"&Remove usage of generic wildcard type.(˜¡ĞŠ
+C
+java:S1452w"&Remove usage of generic wildcard type.(—€™½8ôè¹ã¥0
+B
+java:S1602~",Remove useless curly braces around statement(Óÿé¬

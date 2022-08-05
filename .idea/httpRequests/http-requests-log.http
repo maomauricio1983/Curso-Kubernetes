@@ -1,0 +1,73 @@
+GET http://localhost:8001/usuarios-por-curso?ids=1,2,3,4,5
+
+<<> 2022-08-02T085150.200.json
+
+<> 2022-08-02T085200.200.json
+
+###
+
+GET http://localhost:8001/usuarios-por-curso?ids=1,2,3,4
+
+<> 2022-08-02T085150.200.json
+
+###
+
+GET http://localhost:8001/usuarios-por-curso?ids=1,2,3
+
+<> 2022-08-02T085046.200.json
+
+###
+
+GET http://localhost:8001/usuarios-por-curso?ids=1,2,3
+
+<> 2022-08-02T085043.200.json
+
+###
+
+GET http://localhost:8001/usuarios-por-curso?ids=1,2
+
+{
+  "ids": "1,2"
+}
+
+<> 2022-08-02T085029.200.json
+
+###
+
+GET http://localhost:8001/usuarios-por-curso?ids=1,2
+
+{
+  "ids": "1,2"
+}
+
+<> 2022-08-02T085024.200.json
+
+###
+
+GET http://localhost:8001/usuarios-por-curso
+
+{
+  "ids": "1,2"
+}
+
+<> 2022-08-02T085003.400.json
+
+###
+
+GET http://localhost:8001/usuarios-por-curso
+Content-Type: application/json
+
+{
+  "ids": "1,2"
+}
+
+<> 2022-08-02T084949.400.json
+
+###
+
+GET http://localhost:8002/1
+
+<> 2022-08-01T213148.200.json
+
+###
+
